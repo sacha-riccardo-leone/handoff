@@ -1,0 +1,17 @@
+{
+  "name": "handoff",
+  "owner": {
+    "name": "sacha-riccardo-leone"
+  },
+  "metadata": {
+    "description": "/handoff saves where you are in a HANDOFF.md, /pickup restarts the next session from it in seconds."
+  },
+  "plugins": [
+    {
+      "name": "handoff",
+      "source": "./",
+      "description": "/handoff saves where you are in a HANDOFF.md, /pickup restarts the next session from it in seconds.",
+      "version": "0.1.0"
+    }
+  ]
+}

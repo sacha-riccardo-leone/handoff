@@ -1,0 +1,10 @@
+{
+  "name": "handoff",
+  "version": "0.1.0",
+  "description": "/handoff saves where you are in a HANDOFF.md, /pickup restarts the next session from it in seconds.",
+  "author": { "name": "Sacha", "url": "https://github.com/sacha-riccardo-leone" },
+  "homepage": "https://github.com/sacha-riccardo-leone/handoff",
+  "repository": "https://github.com/sacha-riccardo-leone/handoff",
+  "license": "MIT",
+  "keywords": ["session", "context", "handoff", "workflow"]
+}
